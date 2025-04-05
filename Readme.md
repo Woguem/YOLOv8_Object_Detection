@@ -1,0 +1,1 @@
+This code trains a YOLOv8 model on COCO128 dataset. Performs object detection inference (image analysis and real-time webcam or video detection) using the trained model, with results visualization and saving capabilities. The code implements a complete YOLOv8 workflow (training → inference).
